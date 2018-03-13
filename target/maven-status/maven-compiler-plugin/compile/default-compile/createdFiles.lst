@@ -1,0 +1,8 @@
+com\springboot\util\CustomErrors.class
+com\springboot\controller\CustomErrorController.class
+com\springboot\model\Fibonacci.class
+com\springboot\model\ReverseWord.class
+com\springboot\model\TriangleType.class
+com\springboot\RestAPIApp.class
+com\springboot\controller\RestAPIController.class
+com\springboot\model\ErrorJson.class

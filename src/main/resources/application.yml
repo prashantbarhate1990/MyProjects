@@ -1,0 +1,5 @@
+server:
+  port: 8080
+  contextPath: /RestAPI
+  compression.enabled: true
+  compression.mime-types: text/html,text/xml,text/plain,text/css,text/javascript,application/javascript
